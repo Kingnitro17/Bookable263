@@ -1,0 +1,8 @@
+{
+  "name": "bookable263",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The Entertainment Intelligence Network",
+  "scripts": { "start": "node server/index.mjs", "dev": "node --watch server/index.mjs", "test": "node tests/foundation.test.mjs" },
+  "engines": { "node": ">=24" }
+}
